@@ -122,10 +122,21 @@ Vendor-Registration-Word/
 
 ▶️ How to Use
 
+Vendor-
+
 1. Open the Word template
 2. Fill in vendor details
 3. Complete required fields
 4. Submit the document
+
+---
+
+User-
+
+1. Open the Word template
+2. Press ALT + E to extract vendor data
+3. Select the path for Vendor Master excel file
+5. Check the Vendor Master and use for further ERP update
 
 ---
 
