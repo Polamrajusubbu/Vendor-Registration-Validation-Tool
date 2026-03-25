@@ -69,6 +69,7 @@ User fills Word Form → Validation → Submission → Structured Data Capture
 🔸 Unstructured Data Entry
 
   Challenge: Users entering inconsistent data
+  
   Solution: Designed predefined input sections and formatting
 
 ---
@@ -76,6 +77,7 @@ User fills Word Form → Validation → Submission → Structured Data Capture
 🔸 Missing Mandatory Fields
 
   Challenge: Incomplete vendor submissions
+  
   Solution: Added validation checks and prompts
 
 ---
@@ -83,6 +85,7 @@ User fills Word Form → Validation → Submission → Structured Data Capture
 🔸 User Guidance
 
   Challenge: Users unsure how to fill form
+  
   Solution: Added placeholders and clear field labels
 
 ---
@@ -90,6 +93,7 @@ User fills Word Form → Validation → Submission → Structured Data Capture
 🔸 Maintaining Format Consistency
 
   Challenge: Document formatting getting altered
+
   Solution: Structured layout with controlled sections
 
 ---
