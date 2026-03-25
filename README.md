@@ -110,16 +110,6 @@ User fills Word Form → Validation → Submission → Structured Data Capture
 
 ---
 
-📂 Project Structure
-
-  Vendor-Registration-Word/
-  │
-  ├── Vendor_Form_Template.docm
-  ├── Screenshots/
-  └── README.md
-
----
-
 ▶️ How to Use
 
 Vendor-
