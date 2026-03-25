@@ -68,29 +68,29 @@ User fills Word Form → Validation → Submission → Structured Data Capture
 
 🔸 Unstructured Data Entry
 
-Challenge: Users entering inconsistent data
-Solution: Designed predefined input sections and formatting
+  Challenge: Users entering inconsistent data
+  Solution: Designed predefined input sections and formatting
 
 ---
 
 🔸 Missing Mandatory Fields
 
-Challenge: Incomplete vendor submissions
-Solution: Added validation checks and prompts
+  Challenge: Incomplete vendor submissions
+  Solution: Added validation checks and prompts
 
 ---
 
 🔸 User Guidance
 
-Challenge: Users unsure how to fill form
-Solution: Added placeholders and clear field labels
+  Challenge: Users unsure how to fill form
+  Solution: Added placeholders and clear field labels
 
 ---
 
 🔸 Maintaining Format Consistency
 
-Challenge: Document formatting getting altered
-Solution: Structured layout with controlled sections
+  Challenge: Document formatting getting altered
+  Solution: Structured layout with controlled sections
 
 ---
 
@@ -112,11 +112,11 @@ Solution: Structured layout with controlled sections
 
 📂 Project Structure
 
-Vendor-Registration-Word/
-│
-├── Vendor_Form_Template.docm
-├── Screenshots/
-└── README.md
+  Vendor-Registration-Word/
+  │
+  ├── Vendor_Form_Template.docm
+  ├── Screenshots/
+  └── README.md
 
 ---
 
